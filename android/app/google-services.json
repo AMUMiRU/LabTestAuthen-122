@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956222196956",
+    "project_id": "authentest-5a61c",
+    "storage_bucket": "authentest-5a61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956222196956:android:95a114628e428151047819",
+        "android_client_info": {
+          "package_name": "com.example.authentest_122"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956222196956-4pb6ra0m0fok8579hj266fkl1dhapq6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6eSXrgjYf-u-7c6jBSWl26n7lPQPPcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956222196956-4pb6ra0m0fok8579hj266fkl1dhapq6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
